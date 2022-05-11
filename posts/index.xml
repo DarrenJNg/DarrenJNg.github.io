@@ -1,38 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Darren Ng</title>
+    <title>Posts on Darren Ng</title>
     
     
     
-    <link>https://DarrenJNg.github.io/</link>
-    <description>Recent content on Darren Ng</description>
+    <link>https://DarrenJNg.github.io/posts/</link>
+    <description>Recent content in Posts on Darren Ng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Nov 2021 00:52:23 -0700</lastBuildDate>
     
-	<atom:link href="https://DarrenJNg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://DarrenJNg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://DarrenJNg.github.io/about/</link>
-      <pubDate>Thu, 21 Apr 2022 22:27:14 -0700</pubDate>
-      
-      <guid>https://DarrenJNg.github.io/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          
-          
-        
-        </description>
-    </item>
     
     <item>
       <title>Custom Four Letter Sign Language CV Detection</title>
